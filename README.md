@@ -1,12 +1,3 @@
-# **AlphaGold** - ProjectTwo
-
-## Team Members
----
-
-* Desmond
-* Kevin
-* Ramesh
-
 ## Summary
 ---
 Our project is to develop a system that assist the users to achieve a top-performing and diversified portfolio that allows them to invest in global markets and industries.
